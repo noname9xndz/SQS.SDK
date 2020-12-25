@@ -1,0 +1,13 @@
+{
+  "SQSConfig": {
+    "Profile": "",
+    "AwsRegion": "ap-southeast-1",
+    "AwsAccessKey": "AKIARA7MZOWWEV54OH7X",
+    "AwsSecretKey": "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",
+    "FifoSuffix": "",
+    "_queueName": "",
+    "AwsQueueAutomaticallyCreate": false,
+    "AwsQueueIsFifo": false,
+    "AwsQueueLongPollTimeSeconds": 0
+  }
+}
